@@ -1,0 +1,57 @@
+.primary{
+    color: #51499b;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.intro-block .row{
+    align-items: center;
+}
+
+.avatar{
+    width: 20%;
+}
+
+.avatar img{
+    width: 80%;
+    border-radius: 50%;
+}
+
+h2{
+    font-size: 20px;
+    color:#51499b
+}
+
+.content{
+    width: 80%;
+}
+#place{
+    color:rgb(161, 21, 21)
+}
+
+.contact-me ul{
+    list-style: none;
+    padding: 0;
+}
+#fb-icon{
+    color:rgb(36, 36, 221)
+}
+#linkedin-con{
+    color:rgb(31, 40, 173)
+}
+
+#ig-con{
+    color:rgb(169, 66, 209)
+}
+.contact-me>ul li{
+    display: inline;
+    padding: 0 5px;
+}
